@@ -1,0 +1,233 @@
+{
+  "navigation": {
+    "features": "Features",
+    "whyWellMum": "Why WellMum",
+    "testimonials": "Testimonials",
+    "ourStory": "Our Story",
+    "ourExperts": "Our Experts",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "<highlight>Finding</highlight> yourself after baby, one step at a time",
+    "description": "Wellmum is more than just a program: it's a wellness app designed for mums. With tailored routines, a caring AI coach, and a supportive community, you'll make progress every day — at your own pace — to regain your strength, balance, and confidence.",
+    "startForFree": "Start your Wellmum journey",
+    "seeTestimonials": "See the testimonials",
+    "support": "Support",
+    "aiCoach": "AI Coach",
+    "weeks": "Weeks",
+    "programme": "Programme",
+    "recommendedBy": "Recommended by",
+    "mums": "mums",
+    "features": {
+      "feature1": {
+        "badge": "Regain your energy",
+        "description": "Personalized programs tailored to your pace and your body."
+      },
+      "feature2": {
+        "badge": "Never alone",
+        "description": "A caring AI coach, available 24/7 to support you every day."
+      },
+      "feature3": {
+        "badge": "Safe moves",
+        "description": "Each exercise is approved by postpartum specialists."
+      }
+    }
+  },
+  "brands": {
+    "title": "As featured in"
+  },
+  "why": {
+    "title": "Designed for mums,",
+    "titleHighlight": "with care and expertise",
+    "subtitle": "Wellmum supports you after childbirth with tailored routines, kind guidance, and professional-approved advice. To help you regain your energy, your balance, and the best version of yourself.",
+    "features": {
+      "feature1": {
+        "title": "A personalized recovery program",
+        "description": "Each plan is designed and tailored to your type of delivery, your pace, and your needs."
+      },
+      "feature2": {
+        "title": "A caring AI coach, always there for you",
+        "description": "A coach who listens and supports you at your own pace and every step of your recovery."
+      },
+      "feature3": {
+        "title": "Smart and motivating progress tracking",
+        "description": "Visualize your progress through indicators designed especially for mums, without pressure."
+      },
+      "feature4": {
+        "title": "100% safe exercises",
+        "description": "Validated by postpartum rehabilitation specialists, to support you with confidence."
+      },
+      "feature5": {
+        "title": "A safe and supportive community",
+        "description": "Join other mums going through the same thing, in a caring space where you can share, support each other, and never feel alone."
+      },
+      "feature6": {
+        "title": "Accessible, wherever you are",
+        "description": "At home, in the park, or during baby's nap — your routines adapt to your daily life."
+      }
+    }
+  },
+  "stats": {
+    "mothersSupported": "mums already supported",
+    "satisfactionRate": "satisfaction",
+    "supportAvailable": "Caring support, 24/7"
+  },
+  "nutrition": {
+    "title": "Everything Wellmum",
+    "titleHighlight": "does for you",
+    "subtitle": "Discover all the features designed to support you with care and efficiency throughout your postpartum journey.",
+    "features": {
+      "feature1": {
+        "title": "Track your <highlight>nutrition</highlight> effortlessly",
+        "description": "Take a photo of your meal and Wellmum automatically tells you the calories and the breakdown of protein, carbs, and fat."
+      },
+      "feature2": {
+        "title": "<highlight>Together</highlight>, we go further",
+        "description": "Connect with other mums, share experiences, find support, and move forward together. Because rebuilding yourself is easier when you're not alone."
+      },
+      "feature3": {
+        "title": "Track your <highlight>progress</highlight>, move at your own pace",
+        "description": "Track your weight, measurements, and nutrition goals—and receive personalized recommendations."
+      },
+      "feature4": {
+        "title": "<highlight>Move, hydrate</highlight>, take care of yourself",
+        "description": "Easily track your daily water intake and activity. Wellmum helps you stay hydrated and active, without pressure."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Your success story could be next!",
+    "title": "Real Stories from Real Moms",
+    "description1": "WellMum began with a mission — to support women in one of the most transformative times of their lives. What started as a small idea from Sarah and Manuela became a global platform for mothers' recovery and confidence",
+    "description2": "See how other mothers have transformed their lives through our programmes",
+    "readOurStory": "Read Our Story",
+    "items": {
+      "testimonial1": {
+        "quote": "Sarah's programme gave me my confidence back. I'm stronger now than I was before having kids, and I feel amazing!",
+        "author": "Jessica M.",
+        "role": "Strength & Confidence"
+      },
+      "testimonial2": {
+        "quote": "I never thought I could feel this strong and energetic with three kids. Sarah's support made all the difference.",
+        "author": "Amanda K.",
+        "role": "Mama Warrior"
+      },
+      "testimonial3": {
+        "quote": "The postpartum recovery programme was exactly what I needed. Sarah understood my concerns and helped me heal properly.",
+        "author": "Maria L.",
+        "role": "Postpartum Recovery"
+      },
+      "testimonial4": {
+        "quote": "As a busy mom, I struggled to find time for myself. Sarah's programme was flexible and effective, and I finally feel like me again.",
+        "author": "Emily R.",
+        "role": "Busy Mom"
+      }
+    }
+  },
+  "experts": {
+    "title": "Our Certified Wellness & Nutrition Experts",
+    "subtitle": "Supporting your recovery with science-backed routines and personalized guidance",
+    "expert1": {
+      "name": "Sophie Martin",
+      "title": "Sports & Movement Expert",
+      "description": "Certified pre- and postnatal trainer focusing on safe strengthening routines"
+    },
+    "expert2": {
+      "name": "Dr. Emma Collins",
+      "title": "Women's Health & Recovery Specialist",
+      "description": "10+ years of experience in postpartum rehabilitation and holistic well-being"
+    },
+    "expert3": {
+      "name": "Anna Dubois",
+      "title": "Nutritionist & Lactation Consultant",
+      "description": "Helps moms nourish their bodies with simple, balanced meals"
+    }
+  },
+  "blog": {
+    "title": "Our Blog",
+    "subtitle": "View all",
+    "pageTitle": "Our Blog",
+    "searchPlaceholder": "Search"
+  },
+  "consultation": {
+    "title": "Download the app",
+    "description": "Download the WellMum app and start your postpartum recovery journey today."
+  },
+  "footer": {
+    "description": "Empowering mothers to reclaim their strength and confidence through safe, effective postpartum fitness programmes.",
+    "quickLinks": "Quick Links",
+    "programs": "Programs",
+    "contact": "Contact",
+    "home": "Home",
+    "ourStory": "Our Story",
+    "features": "Programs",
+    "contactUs": "Contact",
+    "postpartumRecovery": "Postpartum Recovery",
+    "strengthConfidence": "Strength & Confidence",
+    "mamaWarrior": "Mama Warrior",
+    "freeConsultation": "Free Consultation",
+    "successStories": "Success Stories",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "allRightsReserved": "All rights reserved."
+  },
+  "common": {
+    "getTheApp": "Get the App",
+    "downloadTagline": "Your personal support for recovery and balance"
+  },
+  "metadata": {
+    "home": {
+      "title": "WellMum - Finding yourself after baby, one step at a time",
+      "description": "Wellmum is more than just a program: it's a wellness app designed for mums. With tailored routines, a caring AI coach, and a supportive community."
+    },
+    "joinBeta": {
+      "title": "Join the Beta - WellMum",
+      "description": "Sign up to be among the first mums to test WellMum for free and regain your energy after baby.",
+      "formTitle": "Join the Beta ✨",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "lastBornDate": "Last born date",
+      "firstNamePlaceholder": "Your first name",
+      "lastNamePlaceholder": "Your last name",
+      "emailPlaceholder": "your@email.com",
+      "submitButton": "Start my free journey ✨",
+      "submitting": "Sending...",
+      "successMessage": "🎉 Thank you! We've received your registration. You'll receive a confirmation email soon.",
+      "errorMessage": "❌ An error occurred. Please try again or contact us directly."
+    },
+    "blogPost": {
+      "titleTemplate": "%s - WellMum Blog",
+      "defaultDescription": "Discover our tips for your postpartum recovery and wellbeing."
+    }
+  },
+  "ourStory": {
+    "metaTitle": "Our Story - WellMum",
+    "metaDescription": "Learn about the WellMum story - how we're empowering mothers through postpartum recovery with expert-validated programs, AI support, and a caring community.",
+    "hero": {
+      "title": "Our Story",
+      "paragraph1": "WellMum was born from a simple truth — mothers deserve care, too",
+      "paragraph2": "After witnessing how many women struggle to recover physically and emotionally after childbirth, our founders decided to create a space where recovery feels personal, gentle, and guided"
+    },
+    "cards": {
+      "card1": {
+        "title": "Our Mission",
+        "description": "We combine medical expertise, artificial intelligence, and compassion to help mothers restore balance, confidence, and strength at their own pace"
+      },
+      "card2": {
+        "title": "How We Help",
+        "description": "Expert-validated programs, emotional support, and intelligent progress tracking — so every mother can feel safe, understood, and empowered on her journey"
+      },
+      "card3": {
+        "title": "The Heart of WellMum",
+        "description": "What started as a small initiative between two women passionate about postpartum wellness has now become a growing community of mothers around the world"
+      }
+    },
+    "founders": {
+      "title": "Founders' Message",
+      "quote": "As mothers and wellness professionals, we've seen how recovery often takes a back seat. WellMum was created to change that — to give women the care, confidence, and community they deserve",
+      "signature": "— Sarah & Manuela, WellMum Founders"
+    }
+  }
+}

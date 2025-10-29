@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev)",
+      "Bash(find:*)",
+      "Bash(perl:*)",
+      "Bash(pnpm add:*)",
+      "Bash(test:*)",
+      "Bash(pnpm remove:*)",
+      "Bash(npx create-strapi-app@latest:*)",
+      "Bash(pkill:*)",
+      "Bash(if [ ! -f .env.local ])",
+      "Bash(then cp .env.local.example .env.local)",
+      "Bash(else echo \".env.local already exists\")",
+      "Bash(fi)",
+      "Bash(pnpm build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
