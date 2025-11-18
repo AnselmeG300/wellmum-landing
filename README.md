@@ -20,7 +20,7 @@ Le site sera accessible sur [http://localhost:3000](http://localhost:3000)
 - **Next.js 15** - Framework React avec App Router
 - **TypeScript** - Typage statique
 - **Tailwind CSS** - Styles utilitaires
-- **next-intl** - Internationalisation (FR/EN)
+- **next-intl** - Internationalisation (FR)
 
 ## 📁 Structure du projet
 
